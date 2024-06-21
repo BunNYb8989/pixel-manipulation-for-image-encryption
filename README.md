@@ -43,6 +43,14 @@ fin.write(image)
 fin.close()
 print('Encryption Done...')
 ```
+<p align="center">
+<b>Root User</b>
+<br/>
+  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/llmnr.png" height="50%" width="50%"/>
+<br/>
+<br/>
+</p>
+
 # DECRYPTION
 
 ```
