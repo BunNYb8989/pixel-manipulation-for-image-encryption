@@ -46,7 +46,7 @@ print('Encryption Done...')
 <p align="center">
 <b>Root User</b>
 <br/>
-  <img src="https://github.com/BunNYb8989/LLMNR/blob/main/llmnr.png" height="50%" width="50%"/>
+  <img src="encrypro.png" >
 <br/>
 <br/>
 </p>
@@ -93,3 +93,10 @@ try:
 except Exception:
 	print('Error caught : ', Exception.__name__)
 ```
+<p align="center">
+<b>Root User</b>
+<br/>
+  <img src="drypro.png" >
+<br/>
+<br/>
+</p>
