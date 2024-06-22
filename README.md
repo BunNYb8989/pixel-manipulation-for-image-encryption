@@ -1,8 +1,11 @@
 # pixel-manipulation-for-image-encryption
 
 Create a folder and create TWO python files 
+
 1.encey.py
+
 2.decr.py
+
 3.prodigy.png (and a image)
 
 # ENCRYPTION
